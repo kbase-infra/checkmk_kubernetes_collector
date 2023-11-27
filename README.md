@@ -1,0 +1,1 @@
+# checkmk_kubernetes_collector
